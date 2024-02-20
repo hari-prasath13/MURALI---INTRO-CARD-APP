@@ -1,16 +1,10 @@
-# murali
-
+# MURALI INTO CARD
 A new Flutter project.
 
-## Getting Started
+This is static app created as an introduction card for a user, using continer widgets indulged in cloumn.
+I have also included fonts in assets to use them in the app.
 
-This project is a starting point for a Flutter application.
+![muraliintocard](https://github.com/hari-prasath13/MURALI---INTRO-CARD-APP/assets/91144740/4aea8daf-29c7-4a07-bf41-f96ac59ad69c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
